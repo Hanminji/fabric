@@ -26,8 +26,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/Hyperledger/fabric/core/chaincode/shim"
-	pb "github.com/Hyperledger/fabric/protos/peer"
+	"github.com/Hanminji/fabric/core/chaincode/shim"
+	pb "github.com/Hanminji/fabric/protos/peer"
 )
 
 // SimpleChaincode example simple Chaincode implementation
